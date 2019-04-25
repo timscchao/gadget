@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #
-# Author: Tim Chao <tim dot chao at accelstor dot com>
-# Copyright (c) 2018 AccelStor Ltd.  All rights reserved.
+# Author: Tim Chao <tim dot scchao at gmail dot com>
+# Copyright (c) 2019 ---- . All rights reserved.
 #
 # THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EITHER
 # EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES
